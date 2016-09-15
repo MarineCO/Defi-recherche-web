@@ -116,4 +116,3 @@ HTTP (pour Hyper Text Transfer Protocol) est un protocole utilisé sur internet 
 
 - [C'est quoi la différence entre HTTP et HTTPS ?](http://www.culture-informatique.net/cest-quoi-difference-http-https/)
 - [Kingofgeek](http://www.kingofgeek.com/2014/06/difference-http-https/)
-- []()

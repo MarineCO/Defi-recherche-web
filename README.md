@@ -89,6 +89,21 @@ Il existent un certain nombres de communautés de développeurs comme "Communaut
 
 #### Sources 
 
--[Aaron Swartz, itinéraire d'un enfant du Net](http://www.lemonde.fr/pixels/article/2014/06/30/aaron-swartz-itineraire-d-un-enfant-du-net_4447830_4408996.html)
--[Aaron Swartz](http://www.aaronsw.com/)
+- [Aaron Swartz, itinéraire d'un enfant du Net](http://www.lemonde.fr/pixels/article/2014/06/30/aaron-swartz-itineraire-d-un-enfant-du-net_4447830_4408996.html)
+- [Aaron Swartz](http://www.aaronsw.com/)
+
+
+## Question 13 : Qu’est-ce que le projet GNU ?
+
+### Réponse : 
+
+Le projet GNU, démarré en 1983 par Richard Stallman, a permit de créer un système d'exploitation consitué de logiciel libre (logiciel que les utilisateurs sont libres d'exécuter, copier, distribuer...). 
+
+#### Sources 
+
+- [Le système d'exploitation GNU et le mouvement du logiciel libre](https://www.gnu.org/home.fr.html)
+- [FSFE - Qu'est ce que le projet GNU?](https://fsfe.org/freesoftware/basics/gnuproject.fr.html)
+- [A propos du projet GNU](https://www.gnu.org/gnu/thegnuproject.fr.html)
+
+
 

@@ -106,4 +106,14 @@ Le projet GNU, démarré en 1983 par Richard Stallman, a permit de créer un sys
 - [A propos du projet GNU](https://www.gnu.org/gnu/thegnuproject.fr.html)
 
 
+## Question 14 : Quelles sont les différences entre le Http et le Https ?
 
+### Réponse : 
+
+HTTP (pour Hyper Text Transfer Protocol) est un protocole utilisé sur internet et transmettre les informations entre un serveur et un client. HTTPS (pour  Hyper Text Transfer Protocol Secure), est un protocole qui permet à votre ordinateur de parler avec le site web un langage sécurisé et crypté que personne ne pourrait espionner.
+
+#### Sources
+
+- [C'est quoi la différence entre HTTP et HTTPS ?](http://www.culture-informatique.net/cest-quoi-difference-http-https/)
+- [Kingofgeek](http://www.kingofgeek.com/2014/06/difference-http-https/)
+- []()

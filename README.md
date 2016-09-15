@@ -13,6 +13,7 @@ Grace Hopper est une américaine, Docteur en mathématiques (Yale) et Amirale de
 - [Ada Online : biographie de Grace Hopper](http://www.ada-online.org/frada/spip93a3.html?article100)
 - [Le Figaro : l'inventrice du bug](http://www.lefigaro.fr/culture/2013/12/09/03004-20131209ARTFIG00311-grace-hopper-l-inventrice-du-bug.php)
 
+
 ## Question 7 : Qu'est-ce que Qwant ?
 
 ### Réponse :
@@ -24,6 +25,7 @@ Qwant est un moteur de recherche français lancé en février 2013 par la start 
 - [Qwant](https://www.qwant.com/?l=fr_fr)
 - [Qwant, le petit moteur de recherche anonyme qui monte](http://www.lemonde.fr/pixels/article/2016/06/22/qwant-le-petit-moteur-de-recherche-anonyme-qui-monte_4955968_4408996.html)
 - [Découvrir et utiliser Qwant, le moteur de recherche internet français](http://www.lesnumeriques.com/vie-du-net/decouvrir-utiliser-qwant-moteur-recherche-internet-francais-a2617.html)
+
 
 ## Question 8 : Qui est Steve Wozniak ?
 
@@ -37,6 +39,7 @@ Steve Wozniak est un informaticien, professeur d'informatique et électronicien 
 - [Biographie Wozniak](http://www.stevejobs.fr/biographie-wozniak/)
 - [Steve Wozniak - Engineer, Inventor, Computer Programmer](http://www.biography.com/people/steve-wozniak-9537334#later-career)
 
+
 ## Question 9 : D'où vient l'expression "bug informatique" ?
 
 ### Réponse :
@@ -48,6 +51,7 @@ Cette expression viendrait d'un récit mettant en scène Grace Hopper. Cette der
 - [L'origin du terme "bug" pour un problème informatique](http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/)
 - [Le premier bug était-il vraiment du à un insecte ?](http://www.le-toaster.fr/tech/le-premier-bug-informatique/)
 - [Google rend hommage à l'inventrice de l'expression "bug" informatique](http://www.midilibre.fr/2013/12/09/google-rend-hommage-a-l-inventrice-de-l-expression-bug-informatique,794786.php)
+
 
 ## Question 10 : Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 
@@ -61,4 +65,18 @@ Il existent un certain nombres de communautés de développeurs comme "Communaut
 - [Code and Coffee](https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/events/233993928/)
 - [Echanger sur pourquoi utiliser Javascript en 2016](https://www.meetup.com/fr-FR/JavaScript-and-Co/events/233735373/)
 - [Soirée SonarQube](https://www.meetup.com/fr-FR/Toulouse-Java-User-Group/events/233230640/)
+
+
+## Question 11 : Quels sont les prochains rendez-vous tech de Toulouse ?
+
+### Réponse : 
+
+- Innovation Days 2016 by IoT Valley, les 22 et 23 septembre 2016
+- Conférence annuelle organisée à Toulouse les 6 et 7 octobre par la Revue «MIT Technology Review » 
+
+#### Sources : 
+
+- [Venture market pour start-ups à Toulouse en Octobre 2016](http://www.marketing-territorial.org/2016/05/venture-market-pour-start-ups-a-toulouse-en-octobre-2016.html)
+- [EmTech France 2016](http://www.emtechfrance.com/)
+- [Innovation Days 2016 by IoT Valley](http://innovation-day.fr/)
 

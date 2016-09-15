@@ -85,7 +85,7 @@ Il existent un certain nombres de communautés de développeurs comme "Communaut
 
 ### Réponse : 
 
- Aaron Swartz est un américain qualifié majoritairement de génie, de surdoué, de hacker. Dès 12 ans, il crée un projet précurseur de Wikipédia. A 14 ans, il cofonde la technologie RSS (information en temps réel de mises à jour de pages web). A 16 ans, il entre à Stanford. L'université ne lui convenant il crée sa propre société qui deviendra après fusion une gigantesque plateforme de discussion, Reddit.com. C'est un fervent défenseur des libertés numériques. Un documentaire lui est consacré "The Internet's Own Boy". 
+ Aaron Swartz est un américain qualifié majoritairement de génie, de surdoué, de hacker. Dès 12 ans, il crée un projet précurseur de Wikipédia. A 14 ans, il cofonde la technologie RSS (information en temps réel de mises à jour de pages web). A 16 ans, il entre à Stanford. L'université ne lui convenant il crée sa propre société qui deviendra après fusion une gigantesque plateforme de discussion, Reddit.com. C'est un fervent défenseur des libertés numériques. Il a eu des démélés avec le gouvernement américain suite au téléchargement illégal de millions de d’articles scientifiques sur les bases de données du MIT. Suite à cela, il a subit des pressions du gouvernement et s'est finalement suicidé à 26 ans. Un documentaire lui est consacré "The Internet's Own Boy". 
 
 #### Sources 
 

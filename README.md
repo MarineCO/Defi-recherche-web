@@ -36,3 +36,15 @@ Steve Wozniak est un informaticien, professeur d'informatique et électronicien 
 - [L'Aventure Apple : Biographies : Steve Jobs et Steve Wozniak](http://www.aventure-apple.com/bios/steves.html)
 - [Biographie Wozniak](http://www.stevejobs.fr/biographie-wozniak/)
 - [Steve Wozniak - Engineer, Inventor, Computer Programmer](http://www.biography.com/people/steve-wozniak-9537334#later-career)
+
+## Question 9 : D'où vient l'expression "bug informatique" ?
+
+### Réponse :
+
+Cette expression viendrait d'un récit mettant en scène Grace Hopper. Cette dernière travaillait sur un ordinateur lorsqu'un court circuit s'est produit provoquant un dysfonctionnement; à l'origine de cette panne, un papillon coincé entre les relais électriques de la machine. En effet, les ordinateurs produisant beaucoup de chaleurs à l'époque, ils avaient tendance à attirer les insectes, qui se dit "bugs" en anglais, d'ou le terme de "bug" qui est resté pour parler de dysfonctionnement dans l'ordinateur.
+
+#### Sources : 
+
+- [L'origin du terme "bug" pour un problème informatique](http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/)
+- [Le premier bug était-il vraiment du à un insecte ?](http://www.le-toaster.fr/tech/le-premier-bug-informatique/)
+- [Google rend hommage à l'inventrice de l'expression "bug" informatique](http://www.midilibre.fr/2013/12/09/google-rend-hommage-a-l-inventrice-de-l-expression-bug-informatique,794786.php)

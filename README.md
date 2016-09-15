@@ -24,3 +24,15 @@ Qwant est un moteur de recherche français lancé en février 2013 par la start 
 - [Qwant](https://www.qwant.com/?l=fr_fr)
 - [Qwant, le petit moteur de recherche anonyme qui monte](http://www.lemonde.fr/pixels/article/2016/06/22/qwant-le-petit-moteur-de-recherche-anonyme-qui-monte_4955968_4408996.html)
 - [Découvrir et utiliser Qwant, le moteur de recherche internet français](http://www.lesnumeriques.com/vie-du-net/decouvrir-utiliser-qwant-moteur-recherche-internet-francais-a2617.html)
+
+## Question 8 : Qui est Steve Wozniak ?
+
+### Réponse :
+
+Steve Wozniak est un informaticien, professeur d'informatique et électronicien américain. Il a cofondé la société Apple Computer avec notamment Steve Jobs. Il est à l'origine des premiers Apple. Il fonde par la suite la société CL 9 (télécommande universelle), Wheels of Zeus (localisateur de gps), et Acquicor Technology (achat et développement de sociétés de technologies). Il a publié son autobiographie sous le titre "iWoz: From Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It". Il est actuellement professeur associé à l'université technologique de Sydney depuis 2014. 
+
+#### Sources : 
+
+- [L'Aventure Apple : Biographies : Steve Jobs et Steve Wozniak](http://www.aventure-apple.com/bios/steves.html)
+- [Biographie Wozniak](http://www.stevejobs.fr/biographie-wozniak/)
+- [Steve Wozniak - Engineer, Inventor, Computer Programmer](http://www.biography.com/people/steve-wozniak-9537334#later-career)

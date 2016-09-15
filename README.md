@@ -48,3 +48,17 @@ Cette expression viendrait d'un récit mettant en scène Grace Hopper. Cette der
 - [L'origin du terme "bug" pour un problème informatique](http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/)
 - [Le premier bug était-il vraiment du à un insecte ?](http://www.le-toaster.fr/tech/le-premier-bug-informatique/)
 - [Google rend hommage à l'inventrice de l'expression "bug" informatique](http://www.midilibre.fr/2013/12/09/google-rend-hommage-a-l-inventrice-de-l-expression-bug-informatique,794786.php)
+
+## Question 10 : Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+### Réponse : 
+
+Il existent un certain nombres de communautés de développeurs comme "Communauté JavaScript and Co." (prochain évènement : Echanger sur pourquoi utiliser Javascript en 2016), "Toulouse Java User Group" (prochain évènement : Soirée SonarQube), "Software Craftsmanship Toulouse" (prochain évènement : Code and Coffee) et bien d'autres encore. 
+
+#### Sources : 
+
+- [Meetup](https://www.meetup.com/fr-FR/)
+- [Code and Coffee](https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/events/233993928/)
+- [Echanger sur pourquoi utiliser Javascript en 2016](https://www.meetup.com/fr-FR/JavaScript-and-Co/events/233735373/)
+- [Soirée SonarQube](https://www.meetup.com/fr-FR/Toulouse-Java-User-Group/events/233230640/)
+

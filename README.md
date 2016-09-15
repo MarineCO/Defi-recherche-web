@@ -80,3 +80,15 @@ Il existent un certain nombres de communautés de développeurs comme "Communaut
 - [EmTech France 2016](http://www.emtechfrance.com/)
 - [Innovation Days 2016 by IoT Valley](http://innovation-day.fr/)
 
+
+## Question 12 : Qui est Aaron Swartz ?
+
+### Réponse : 
+
+ Aaron Swartz est un américain qualifié majoritairement de génie, de surdoué, de hacker. Dès 12 ans, il crée un projet précurseur de Wikipédia. A 14 ans, il cofonde la technologie RSS (information en temps réel de mises à jour de pages web). A 16 ans, il entre à Stanford. L'université ne lui convenant il crée sa propre société qui deviendra après fusion une gigantesque plateforme de discussion, Reddit.com. C'est un fervent défenseur des libertés numériques. Un documentaire lui est consacré "The Internet's Own Boy". 
+
+#### Sources 
+
+-[Aaron Swartz, itinéraire d'un enfant du Net](http://www.lemonde.fr/pixels/article/2014/06/30/aaron-swartz-itineraire-d-un-enfant-du-net_4447830_4408996.html)
+-[Aaron Swartz](http://www.aaronsw.com/)
+
